@@ -5,5 +5,5 @@ You can use this application and codes even you can change codes but you can't e
 
 Made with C# By Alice...
 
-Database and Setup File added
+There is a problem about my database For this reason i cant upload the database of this project.
 
